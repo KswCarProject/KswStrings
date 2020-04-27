@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Navigation tile-->
+	<string name="ksw_id7_real_time_navi">Navigation in Echtzeit</string>
+<!-- Car-info tile-->
+    <string name="ksw_id7_car_info">Original System</string>
+	<string name="ksw_id7_switch_to_carinfo_window">iDrive</string>
+<!-- Filemanager tile-->
+	<string name="id6_filemanager">Dateimanager</string>
+    <string name="id6_filemanager_mess">Greifen Sie auf Dateien auf SD und USB zu</string>
+<!-- dvr tile-->
+    <string name="function_text8">DVR</string>
+	<string name="id6_xingchejily_mess">Fahrvideo aufnehmen</string>
+<!-- browser tile-->
+    <string name="id6_browser">Browser</string>
+    <string name="id6_browser_mess">Im Internet surfen</string>
+<!-- EasyConnection / Phone tile-->
+    <string name="id6_shouj_hulian">EasyConnection</string>
+    <string name="id6_shouj_hulian_mess">Telefon-Mirroring</string>
+
+	<string name="audi_factory_home_right_option1">ausblenden</string>
+    <string name="audi_home_left_widget">Widget in der linken Seite im Launcher</string>
+    <string name="audi_home_right_widget">Widget in der rechten Seite im Launcher</string>
+    <string name="bc_apps_btn_text">Android Apps</string>
+    <string name="benz_gs_home_navi">Navigation</string>
+    <string name="boot_record_mode_radio3">Zu Android</string>
+    <string name="bt_text_bt_closed">deaktiviert</string>
+    <string name="factory_ccci1">1 Button Controller</string>
+    <string name="factory_ccci2">7 Button Controller</string>
+    <string name="factory_ccci">iDrive Controller Typ</string>
+    <string name="factory_danwei">PDC Umschaltung</string>
+    <string name="factory_input1">Importieren aus dem OEM-Ordner des USB Sticks factory_config.xml</string>
+    <string name="factory_mapkey2">OEM Navigation</string>
+    <string name="factory_nbt0">Headunit Typ für automatische AUX Umschaltung</string>
+	<string name="function_bt">Bluetooth</string>
+    <string name="function_text2">Unterbinden der Installation von Drittanbieter Apps</string>
+	<string name="function_text9">deaktivieren</string>
+    <string name="gs_navigate">Navigation</string>
+	<string name="ug_apps_text">Android System</string>
+	<string name="id6_apps_mess">Mehr Apps anzeigen</string>
+	<string name="id6_setting_mess">Systemfunktionen</string>
+    <string name="id7_als_item_one">ECO</string>
+    <string name="ksw_id7_ecu">Kombi Instrument</string>
+    <string name="ksw_id7_hd_video">Video</string>
+    <string name="ksw_id7_hd_video_warning">Nur im Stand benutzen</string>
+    <string name="ksw_id7_navi">Navigation</string>
+    <string name="ksw_idf7_unknow_artis">Unbekannter Künstler</string>
+    <string name="mcu_file_corrupted">Datei beschädigt!</string>
+    <string name="oil_size">Tank: %s</string>
+    <string name="set_text7">Stumm bei Rückwärtsgang</string>
+    <string name="set_text8">NAVI Ansagen während OEM-Radio mischen</string>
+    <string name="string_is_this_logo">Dieses Logo verwenden ?</string>
+    <string name="string_sele_play_apk">Musik App</string>
+    <string name="string_set_logo_over">Das Logo wurde erfolgreich aktualisiert!</string>
+    <string name="text_2">Uhrzeitsynchronisation</string>
+    <string name="text_3">Uhrzeitanzeige</string>
+    <string name="text_4">Fahrzeug Uhrzeit übernehmen</string>
+    <string name="text_5">Android Uhrzeit</string>
+    <string name="text_6">12 Stunden</string>
+    <string name="text_7">24 Stunden</string>
+    <string name="update_mcu_file">Möchten Sie die MCU aktualisieren?</string>
+
+</resources>
